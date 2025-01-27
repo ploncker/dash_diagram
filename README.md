@@ -1,6 +1,6 @@
 # dash-diagram
 
-dash-diagram is a Dash component library for buyilding node (as in a node of a graph) based diagrams and applications.
+dash-diagram is a Dash component library for building node (as in a node of a graph) based diagrams and applications.
 Its composed of three diagraming libraries: Mermaid, ReactFlow and Litegraph. 
 
 Project Description
