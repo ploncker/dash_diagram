@@ -1,5 +1,6 @@
 # AUTO GENERATED FILE - DO NOT EDIT
 
+export(Litegraph)
 export(Mermaid)
 export(Reactflow)
 export(dashDiagram)
@@ -8,3 +9,4 @@ export(reactflowOld)
 export(mermaidOld)
 export(mermaidExport)
 export(mermaid)
+export(litegraph)

@@ -5,6 +5,7 @@ using Dash
 const resources_path = realpath(joinpath( @__DIR__, "..", "deps"))
 const version = "0.0.1"
 
+include("jl/litegraph.jl")
 include("jl/mermaid.jl")
 include("jl/reactflow.jl")
 
