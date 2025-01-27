@@ -1,6 +1,6 @@
 # dash-diagram
 
-dash-diagram is a Dash component library.
+dash-diagram is a Dash component library for buyilding node (as in a node of a graph) based diagrams and applications.
 
 Project Description
 
