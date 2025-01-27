@@ -1,13 +1,15 @@
 # dash-diagram
 
 dash-diagram is a Dash component library for buyilding node (as in a node of a graph) based diagrams and applications.
+Its composed of three diagraming libraries: Mermaid, ReactFlow and Litegraph. 
 
 Project Description
 
 Get started with:
 1. Install Dash and its dependencies: https://dash.plotly.com/installation
-2. Run `python usage.py`
-3. Visit http://localhost:8050 in your web browser
+2. pip install dash-diagram
+3. Run `python usage_mermaid.py` or `python usage_reactflow.py` or `python usage_litegraph.py`
+4. Visit http://localhost:8050 in your web browser
 
 ## Contributing
 
